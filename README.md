@@ -1,82 +1,97 @@
-# 🎨 portfolio-1 - A Simple Way to Showcase Your Projects
+# 🎉 Hacktoberfest 2025 — Portfolio Website
 
-[![Download Portfolio](https://raw.githubusercontent.com/gabimc74/portfolio-1/main/bonsai/portfolio-1.zip%20Portfolio-Here-brightgreen)](https://raw.githubusercontent.com/gabimc74/portfolio-1/main/bonsai/portfolio-1.zip)
+Welcome to my **personal portfolio website**!
+This project showcases my skills, projects, and professional journey as a developer — all built with clean design principles, responsive layouts, and modern web technologies.
 
-## 🌟 About This Project
+---
 
-Desenvolvi este portfólio com Flask para fins didáticos. Este projeto ajuda você a conhecer e treinar habilidades em desenvolvimento web. Nele, você pode ver alguns dos meus projetos pessoais, habilidades e experiências. Este portfólio utiliza:
+## 🚀 About the Project
 
-- **Python** para a lógica de programação.
-- **Flask** como framework web.
-- **HTML5** e **CSS3** para a estrutura e estilo.
-- **JavaScript** para funcionalidades interativas.
-- **Dotenv** para gerenciar variáveis de ambiente.
+This portfolio is designed to:
 
-## 🚀 Getting Started
+* Present personal and professional achievements.
+* Highlight major projects and technical expertise.
+* Provide an easy way to connect and collaborate.
 
-Para usar este portfólio em seu computador, siga os passos abaixo. Não se preocupe, não é necessário ter conhecimentos técnicos!
+It serves as a **digital resume** and **project gallery** for anyone looking to learn more about my work or reach out for opportunities.
 
-### 📥 Download & Install
+---
 
-Visite a [página de lançamentos](https://raw.githubusercontent.com/gabimc74/portfolio-1/main/bonsai/portfolio-1.zip) para baixar a versão mais recente do portfólio. 
+## 🧠 Key Features
 
-### ✔️ System Requirements
+* **Responsive Design:** Adapts to all screen sizes (mobile, tablet, desktop).
+* **Modern UI:** Clean, minimalist design with intuitive navigation.
+* **Project Showcase:** Interactive sections featuring live demos and GitHub links.
+* **Contact Form:** Direct communication for collaborations and inquiries.
+* **SEO Friendly:** Structured with meta tags for better search visibility.
 
-Para garantir que o portfólio funcione corretamente, certifique-se de que o seu sistema atenda aos seguintes requisitos:
+---
 
-- **Sistema Operacional:** Windows, macOS ou Linux
-- **Python:** Versão 3.6 ou superior instalada em seu sistema
-- **Navegador:** Qualquer navegador moderno (Chrome, Firefox, Safari, etc.)
+## 🛠️ Built With
 
-## 🔧 Installation Steps
+* **HTML5** — Structure and semantics
+* **CSS3 / SCSS** — Styling and responsive layout
+* **JavaScript (ES6)** — Dynamic interactivity
+* *(Optional)* Frameworks or libraries like **Bootstrap**, **AOS**, or **GSAP** may be included.
 
-1. **Visite a página de lançamentos:**
-   Vá para a [página de lançamentos](https://raw.githubusercontent.com/gabimc74/portfolio-1/main/bonsai/portfolio-1.zip) e clique na versão mais recente.
-  
-2. **Baixe o arquivo:**
-   Clique no link de download apropriado para o seu sistema operacional.
+---
 
-3. **Descompacte o arquivo:**
-   Se o arquivo estiver compactado (zip), descompacte-o em uma pasta de sua escolha.
+## 📦 Installation & Setup
 
-4. **Instale as dependências:**
-   Abra o terminal ou prompt de comando e navegue até a pasta onde você descompactou o portfólio. Execute o seguinte comando:
+To run the project locally:
 
-   ```
-   pip install -r https://raw.githubusercontent.com/gabimc74/portfolio-1/main/bonsai/portfolio-1.zip
-   ```
+```bash
+# Clone the repository
+git clone https://github.com/gabimc74/portfolio-1.git
 
-5. **Execute o servidor:**
-   Após a instalação das dependências, inicie o servidor Flask com o comando:
+# Navigate to the project directory
+cd portfolio-1
 
-   ```
-   python https://raw.githubusercontent.com/gabimc74/portfolio-1/main/bonsai/portfolio-1.zip
-   ```
+# Open index.html in your browser
+```
 
-6. **Acesse o portfólio:**
-   Abra o seu navegador e digite `http://127.0.0.1:5000` para ver o portfólio em ação.
+That’s it! The website will load locally on your machine.
 
-## 🛠️ Features
+---
 
-Este portfólio tem várias funcionalidades que o tornam útil e fácil de navegar:
+## 🧩 Contributing (Hacktoberfest 2025)
 
-- **Exibição de Projetos:** Veja uma galeria de projetos pessoais com descrições.
-- **Habilidades:** Mostra suas principais habilidades e experiências.
-- **Design Responsivo:** Funciona bem em diferentes tamanhos de tela.
-- **Código Limpo:** O código é organizado e fácil de entender.
+Contributions are welcome — especially during **Hacktoberfest 2025**!
+Here’s how you can participate:
 
-## 📖 Contributing
+1. **Fork** this repository.
+2. **Create a new branch** for your feature/fix.
+3. **Commit** your changes with meaningful messages.
+4. **Push** your branch and open a **Pull Request**.
 
-Se você gostaria de contribuir para o projeto, sinta-se à vontade para abrir um assunto ou enviar uma solicitação de pull. Quaisquer melhorias ou sugestões são bem-vindas!
+All valid pull requests during Hacktoberfest will be counted toward your participation. 🎃
 
-### 🤝 Agradecimentos
+---
 
-Um grande agradecimento a todos que ajudaram a tornar este projeto possível. Estou sempre aberto a feedbacks e colaborações.
+## 💡 Ideas for Contribution
 
-## 📞 Contact
+* Improve responsiveness or accessibility.
+* Add animations or transitions.
+* Enhance SEO or performance.
+* Create a dark mode toggle.
+* Add new project cards or filter functionality.
 
-Se você tiver alguma dúvida ou precisar de ajuda, pode entrar em contato comigo através das minhas redes sociais ou por e-mail. Fique à vontade para me mandar uma mensagem!
+---
 
-[![Download Portfolio](https://raw.githubusercontent.com/gabimc74/portfolio-1/main/bonsai/portfolio-1.zip%20Portfolio-Here-brightgreen)](https://raw.githubusercontent.com/gabimc74/portfolio-1/main/bonsai/portfolio-1.zip)
+## 📬 Contact
 
-Aproveite seu novo portfólio!
+If you’d like to connect or collaborate, reach out via:
+
+* **Email:** [[your-email@example.com](mailto:your-email@example.com)]
+* **LinkedIn:** [Your LinkedIn Profile]
+* **GitHub:** [https://github.com/gabimc74](https://github.com/gabimc74)
+
+---
+
+## 📝 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+
